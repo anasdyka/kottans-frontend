@@ -13,9 +13,9 @@
 It was very useful and interesting information. <br>
 I have studied a lot of git comands. Some of them I have already used. <br>And a lot of I plan to use in the future.
 
-<img src="img/git1.jpg"
+<img src="task_git_collaboration/git1.jpg"
      alt="git">
-<img src="img/git2.jpg"
+<img src="task_git_collaboration/git2.jpg"
      alt="git">
 
 ## Linux CLI, and HTTP
