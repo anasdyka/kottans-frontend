@@ -6,7 +6,12 @@
 
 ---
 
-It was very useful and interesting information. I have studied a lot of git comands. Some of them I have already used. And a lot of I plan to use in the future.
+## Git Collaboration
+
+---
+
+It was very useful and interesting information. <br>
+I have studied a lot of git comands. Some of them I have already used. <br>And a lot of I plan to use in the future.
 
 <img src="img/git1.jpg"
      alt="git">
