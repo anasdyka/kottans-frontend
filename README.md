@@ -6,5 +6,5 @@ It was very useful and interesting information. I have studied a lot of git coma
 
 <img src="img/git1.jpg"
      alt="git">
-![alt](https://ibb.co/DQFrppK)
-![alt](https://ibb.co/1Q05mr4)
+<img src="img/git2.jpg"
+     alt="git">
